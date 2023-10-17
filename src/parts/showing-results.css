@@ -1,0 +1,17 @@
+.show-winner-button{
+    padding: 20px;
+    background-color: cadetblue;
+    color: brown;
+    border-color: burlywood;
+    border-width: 8px;
+}
+
+.button-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.-hidden {
+    display: none;
+}
